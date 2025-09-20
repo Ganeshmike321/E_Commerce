@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function NewsletterBox() {
+export default function NewsLetterBox() {
     function onSubmitHandler(event) {
         event.preventDefault()
 
